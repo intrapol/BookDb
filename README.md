@@ -26,9 +26,8 @@ belki yazarlarında popüleritesi olabilir.
 kategori, konu , yıl ve benzeri filtrelemeler olmalı.
 ## düşünülmesi gerekenler
 bu kadar kitabın verisine nasıl ulaşabiliriz
-kitapları neye göre öne çıkaracağız 
+kitapları neye göre öne çıkaracağız
 kitapların satış sayıları gibi istatistiklerine nasıl ulaşabiliriz
-kullanıcı olmalımı 
+kullanıcı olmalımı
 kullanıcılardan kitap hakkında punlama yapılması istenmelimi
-
-
+hangi programlama dili kullanılacak agaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
